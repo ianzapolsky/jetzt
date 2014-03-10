@@ -22,6 +22,8 @@ Control is currently keyboard-only.
 
 - Pause with space.
 
+- Toggle the theme of the reader between light and dark with `0`. 
+
 - Close with escape.
 
 ### Online Demo
